@@ -1,0 +1,22 @@
+.reg{
+    text-align: center;
+    font-size: 100px;
+}
+#listmenu{
+    text-align: center;
+    font-size: 120px;
+}
+.Pcontainer{
+    text-align: center;
+    
+}
+#btn{
+    font-size: 50px;
+    margin-top: 40px;
+}
+#input{
+    font-size: 70px;
+    border-radius: 60px;
+    border: 20px solid ;
+    border-color: blueviolet;
+}
